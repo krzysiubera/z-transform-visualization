@@ -13,4 +13,7 @@ of visualization:
 ![zeros_poles](https://user-images.githubusercontent.com/46610012/111231101-f4267500-85e8-11eb-94d1-5f946a133f2e.jpg)
 
 - 3D view of Z-domain
+
+![3D](https://user-images.githubusercontent.com/46610012/111231236-3485f300-85e9-11eb-8af9-4f56bba3fcf2.jpg)
+
 - 3D view of Z-domain but limited to the unit circle
