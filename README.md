@@ -17,3 +17,6 @@ of visualization:
 ![3D](https://user-images.githubusercontent.com/46610012/111231236-3485f300-85e9-11eb-8af9-4f56bba3fcf2.jpg)
 
 - 3D view of Z-domain but limited to the unit circle
+
+![3D_limited](https://user-images.githubusercontent.com/46610012/111231308-57180c00-85e9-11eb-82cb-73a1058e930f.jpg)
+
