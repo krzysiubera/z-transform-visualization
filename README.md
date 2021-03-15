@@ -5,6 +5,9 @@ of visualization:
 
 ![amplitude](https://user-images.githubusercontent.com/46610012/111230874-96922880-85e8-11eb-9b88-ac0f2c2b6f0e.jpg)
 - phase response
+
+![phase](https://user-images.githubusercontent.com/46610012/111231003-c9d4b780-85e8-11eb-8e8b-4cfbce88a387.jpg)
+
 - graph displaying zeros and poles on the complex plane
 - 3D view of Z-domain
 - 3D view of Z-domain but limited to the unit circle
