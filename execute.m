@@ -2,5 +2,7 @@
 clc
 clear
 
-[b,a] = cheby2(20, 0.2, 0.6);
+% lowpass Butterworth filter 
+% 6-th order, nurmalized cutoff frequency 0.4
+[b,a] = butter(6, 0.4);
 transfer_function(b,a);
