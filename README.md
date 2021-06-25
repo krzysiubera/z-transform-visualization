@@ -11,7 +11,7 @@ The purpose of this project was to create a visualization of filter's transfer f
 - 3D visualization of the Z-transform
 <img src="images/3D.png" />
 - 3D visualization of the Z-transform but limited to the unit circle
-- <img src="images/3D limited.png" />
+- <img src="images/3D_limited.png" />
 
 ## Structure of files
 - execute.m - this m-file needs to be run in order to see the visualization. This is where coefficients of the filter need to be provided (it can be provided in the form of zeros and poles or in a form of numerator and denominator of the transfer function)
